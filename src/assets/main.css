@@ -1,0 +1,318 @@
+
+body{
+  background-image: url(/backgr.png) ;
+  max-width: 1840px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+
+}
+
+.pivo_right{
+  position: flex;
+  width: 520px;
+  transform: translate(37em, -8em);
+  cursor: auto;
+
+}
+
+.num{
+  position: initial;
+  transform: translate(500em, -8em);
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;  /* толщина */
+  font-style: italic; /* курсив */
+  text-decoration: none;
+  color: #fff;
+  line-height: 1;
+  letter-spacing: 2px;
+}
+.num:hover{
+  color: #e2ab33;
+}
+
+
+.text-number{
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 300;  /* толщина */
+  font-style: italic; /* курсив */
+  text-decoration: none;
+  color: #e2ab33;
+  cursor: default;
+  letter-spacing: 1px;
+
+}
+
+
+
+.btn1 {
+  transform: translate(55em, -8em);
+  font-family: 'Raleway';
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff ;
+  padding: 14px 25px;
+  border-radius: 5px;
+  border: 2px ridge #e47f0c;
+  background: #a36c05;
+  background: linear-gradient(to top, #eeae23c0, #ffffff);
+  cursor: pointer;
+}
+.btn1:hover{
+  color: #ffffff;
+  background: #e2ab33;
+}
+
+
+.header-line {
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    margin-right: 28px;
+    transition: color 0.5s linear;
+    transform: translate(10em, -8.3em);
+  }
+
+.nav-item:hover{
+  color: #e2ab33;
+}
+.cart {
+    position: relative;
+
+    border-right: 1px solid #ffffff;
+    padding-right: 20px;
+    height: 60px;
+    transform: translate(47em, -8em);
+}
+
+.cart-img {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    transform: translate(0em, 0em);
+    cursor: default;
+}
+
+.header-logo{
+  transform: translate(4em, -6.7em);
+}
+
+.left-text{
+  background-image: url(/beer_text.jpg);
+  background-size: 300px;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-size: 110px; 
+  font-weight: 550;
+  font-style: italic;
+  text-shadow: 8px 10px 5px rgba(153, 98, 15, 0.247);
+  text-align: center;
+  letter-spacing: 10px;
+  line-height: 1.5;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transform: translate(-7em, 2.3em);
+  display: flex;
+  cursor: default;
+}
+
+
+
+/* карточки */
+
+.card {
+    width: 225px;
+    min-height: 350px;
+    box-shadow: 6px 2px 4px rgba(221, 220, 216, 0.123);
+    display: flex;
+    flex-direction: column; 
+    border-radius: 4px;
+    transition: 0.2s;
+    position: relative;
+    background-color: rgba(221, 220, 216, 0.308);
+    transform: translate(-4em, -78em);
+  }
+  
+  .card:hover {
+    box-shadow: 4px 8px 16px rgba(104, 104, 104, 0.2);
+  }
+  
+  .card__top {
+    flex: 0 0 250px; 
+    position: relative;
+    overflow: hidden; 
+  }
+  
+  .card__image {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .card__image > img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; 
+    transition: 0.2s;
+  }
+  
+  .card__image:hover > img {
+    transform: scale(1.1);
+  }
+  
+  .card__bottom {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto; 
+    padding: 10px;
+  }
+
+  .card__price--discount {
+    font-weight: 700;
+    font-size: 19px;
+    color: #e2ab33;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    cursor: default;
+  }
+  
+  .card__price--common {
+    font-weight: 400;
+    font-size: 14px;
+    color: #c9972b;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+  }
+  
+  .card__price--common::before {
+    content: "Средняя цена - ";
+    font-weight: 500;
+    font-size: 12px;
+    color: #c9972b;
+  }
+
+  
+  .card__title {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 150%;
+    color: #41414154;
+  }
+  
+  .card__add {
+    display: block;
+    width: 100%;
+    font-weight: 600;
+    font-size: 16px;
+    color: #c9972b;
+    padding: 8px;
+    text-align: center;
+    color: #c09317;
+    border: 1.5px solid;
+    border-radius: 16px;
+    cursor: pointer; 
+    transition: 0.2s;
+    margin-top: auto; 
+  }
+
+  .card__add:hover {
+    border: 1.5px solid #c2862b;
+    background-color: #c2862b;
+    color: #fff;
+  }
+  
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(5, 250px);
+    width: 100%;
+    justify-content: center;
+    justify-items: center; 
+    column-gap: 40px; 
+    row-gap: 60px;
+    margin: 1000px;
+    max-width: 0px;
+
+  }
+
+  /* Контейнер подсказок */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  text-align: right;
+  cursor: pointer;
+  transform: translate(-1em, 0.5em);
+
+}
+
+/* Текст подсказки */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 210px;
+  background-color: #555;
+  color: #fff;
+  text-align: left;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Расположите текст подсказки */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 70%;
+  margin-left: -60px;
+
+  /* Исчезают в подсказке */
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+/* Подсказка стрелка */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Отображение текста подсказки при наведении курсора мыши на контейнер подсказки */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.text-card{
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 300;  /* толщина */
+  font-style: italic; /* курсив */
+  text-decoration: none;
+  color: #e2ab33;
+  cursor: pointer;
+  letter-spacing: 1px;
+}
+
+
+
+
