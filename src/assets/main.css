@@ -22,8 +22,8 @@ body{
   transform: translate(500em, -8em);
   font-family: 'Roboto', Arial, sans-serif;
   font-size: 14px;
-  font-weight: 700;  /* толщина */
-  font-style: italic; /* курсив */
+  font-weight: 700;  
+  font-style: italic; 
   text-decoration: none;
   color: #fff;
   line-height: 1;
@@ -37,8 +37,8 @@ body{
 .text-number{
   font-family: 'Roboto', Arial, sans-serif;
   font-size: 12px;
-  font-weight: 300;  /* толщина */
-  font-style: italic; /* курсив */
+  font-weight: 300; 
+  font-style: italic; 
   text-decoration: none;
   color: #e2ab33;
   cursor: default;
@@ -252,7 +252,10 @@ body{
 
   }
 
-  /* Контейнер подсказок */
+
+  /* описание сортов */
+
+
 .tooltip {
   position: relative;
   display: inline-block;
@@ -262,7 +265,6 @@ body{
 
 }
 
-/* Текст подсказки */
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 210px;
@@ -272,19 +274,19 @@ body{
   padding: 5px 0;
   border-radius: 6px;
 
-  /* Расположите текст подсказки */
+  
   position: absolute;
   z-index: 1;
   bottom: 125%;
   left: 70%;
   margin-left: -60px;
 
-  /* Исчезают в подсказке */
+  
   opacity: 0;
   transition: opacity 0.5s;
 }
 
-/* Подсказка стрелка */
+
 .tooltip .tooltiptext::after {
   content: "";
   position: absolute;
@@ -296,7 +298,7 @@ body{
   border-color: #555 transparent transparent transparent;
 }
 
-/* Отображение текста подсказки при наведении курсора мыши на контейнер подсказки */
+
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
@@ -305,14 +307,54 @@ body{
 .text-card{
   font-family: 'Roboto', Arial, sans-serif;
   font-size: 15px;
-  font-weight: 300;  /* толщина */
-  font-style: italic; /* курсив */
+  font-weight: 300;  
+  font-style: italic; 
   text-decoration: none;
   color: #e2ab33;
   cursor: pointer;
   letter-spacing: 1px;
 }
 
+/* рейтинг */
 
-
+.rating-area {
+	overflow: hidden;
+	width: 215px;
+	margin: 0 auto;
+}
+.rating-area:not(:checked) > input {
+	display: none;
+}
+.rating-area:not(:checked) > label {
+	float: right;
+	width: 42px;
+	padding: 0;
+	cursor: pointer;
+	font-size: 32px;
+	line-height: 32px;
+	color: lightgrey;
+	text-shadow: 1px 1px #bbb;
+}
+.rating-area:not(:checked) > label:before {
+	content: '★';
+}
+.rating-area > input:checked ~ label {
+	color: #e2ab33;
+	text-shadow: 1px 1px #c60;
+}
+.rating-area:not(:checked) > label:hover,
+.rating-area:not(:checked) > label:hover ~ label {
+	color: #e2ab33;
+}
+.rating-area > input:checked + label:hover,
+.rating-area > input:checked + label:hover ~ label,
+.rating-area > input:checked ~ label:hover,
+.rating-area > input:checked ~ label:hover ~ label,
+.rating-area > label:hover ~ input:checked ~ label {
+	color: #e2ab33;
+	text-shadow: 1px 1px goldenrod;
+}
+.rate-area > label:active {
+	position: relative;
+}
 

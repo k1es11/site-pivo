@@ -67,6 +67,19 @@
             <div class="card__price card__price--common"> &nbsp 222₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
+
         <a href="#" class="card__title">
 
         </a>
@@ -97,6 +110,19 @@
             <div class="card__price card__price--common"> &nbsp 189₽</div>
             
         </div>
+
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -122,6 +148,18 @@
             <div class="card__price card__price--discount">American Porter</div>
             <div class="card__price card__price--common"> &nbsp 209₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -149,6 +187,18 @@
             <div class="card__price card__price--common"> &nbsp 250₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -174,6 +224,18 @@
             <div class="card__price card__price--discount"> American Stout</div>
             <div class="card__price card__price--common"> &nbsp 230₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -201,6 +263,18 @@
             <div class="card__price card__price--common"> &nbsp 190₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -226,6 +300,18 @@
             <div class="card__price card__price--discount"> Belgain Pale Ale</div>
             <div class="card__price card__price--common"> &nbsp 154₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -253,6 +339,18 @@
             <div class="card__price card__price--common"> &nbsp 129₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -278,6 +376,18 @@
             <div class="card__price card__price--discount"> American Barleywine</div>
             <div class="card__price card__price--common"> &nbsp 300₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -305,6 +415,18 @@
             <div class="card__price card__price--common"> &nbsp 390₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -330,6 +452,18 @@
             <div class="card__price card__price--discount"> Weizenbock</div>
             <div class="card__price card__price--common"> &nbsp 310₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -357,6 +491,18 @@
             <div class="card__price card__price--common"> &nbsp 172₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -382,6 +528,18 @@
             <div class="card__price card__price--discount"> Kölsch</div>
             <div class="card__price card__price--common"> &nbsp 238₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -409,6 +567,18 @@
             <div class="card__price card__price--common"> &nbsp 179₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -434,6 +604,18 @@
             <div class="card__price card__price--discount"> Vienna Lager</div>
             <div class="card__price card__price--common"> &nbsp 244₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -461,6 +643,18 @@
             <div class="card__price card__price--common"> &nbsp 160₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -486,6 +680,18 @@
             <div class="card__price card__price--discount">English Barleywine</div>
             <div class="card__price card__price--common"> &nbsp 557₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -513,6 +719,18 @@
             <div class="card__price card__price--common"> &nbsp 219₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -538,6 +756,18 @@
             <div class="card__price card__price--discount"> Flanders Red Ale</div>
             <div class="card__price card__price--common"> &nbsp 380₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -565,6 +795,18 @@
             <div class="card__price card__price--common"> &nbsp 290₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -590,6 +832,18 @@
             <div class="card__price card__price--discount"> Bière de Garde</div>
             <div class="card__price card__price--common"> &nbsp 299₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -617,6 +871,18 @@
             <div class="card__price card__price--common"> &nbsp 145₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -642,6 +908,18 @@
             <div class="card__price card__price--discount"> Cream Ale</div>
             <div class="card__price card__price--common"> &nbsp 202₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -669,6 +947,18 @@
             <div class="card__price card__price--common"> &nbsp 205₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -694,6 +984,18 @@
             <div class="card__price card__price--discount"> Baltic Porter</div>
             <div class="card__price card__price--common"> &nbsp 175₽</div>
             
+        </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
         </div>
         <a href="#" class="card__title">
 
@@ -721,6 +1023,18 @@
             <div class="card__price card__price--common"> &nbsp 159₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -746,6 +1060,18 @@
             <div class="card__price card__price--common"> &nbsp 199₽</div>
             
         </div>
+        <div class="rating-area">
+	        <input type="radio" id="star-5" name="rating" value="5">
+	        <label for="star-5" title="Шедевр пивоварения"></label>	
+	        <input type="radio" id="star-4" name="rating" value="4">
+	        <label for="star-4" title="Вполне сгодится"></label>    
+	        <input type="radio" id="star-3" name="rating" value="3">
+	        <label for="star-3" title="Ни рыба, ни мясо"></label>  
+	        <input type="radio" id="star-2" name="rating" value="2">
+	        <label for="star-2" title="Пиво для врагов"></label>    
+	        <input type="radio" id="star-1" name="rating" value="1">
+	        <label for="star-1" title="Пролил бы на пол"></label>
+        </div>
         <a href="#" class="card__title">
 
         </a>
@@ -757,16 +1083,6 @@
 
 
 </template>
-
-
-
-
-
-
-
-
-
-
 
 
 
