@@ -13,6 +13,7 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
+    "papaparse": "^5.4.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
